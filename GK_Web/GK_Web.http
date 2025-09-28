@@ -1,0 +1,6 @@
+@GK_Web_HostAddress = http://localhost:5043
+
+GET {{GK_Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
